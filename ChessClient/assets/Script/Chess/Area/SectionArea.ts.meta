@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "43c32003-26fe-4e56-b014-a41da59eb7b8",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/Chess/Area/SectionArea.ts",
+    "importAsPlugin": false
+  }
+}

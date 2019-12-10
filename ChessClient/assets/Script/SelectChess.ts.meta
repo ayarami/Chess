@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "3a2a000b-d00e-406d-94f7-f9bc2a62926b",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/SelectChess.ts",
+    "importAsPlugin": false
+  }
+}

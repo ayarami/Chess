@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "8b6ac0fc-8e16-4499-bafc-3c03f321bf9a",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/Internet/InternetNode.ts",
+    "importAsPlugin": false
+  }
+}

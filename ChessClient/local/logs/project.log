@@ -1,0 +1,25 @@
+2019-11-29 15:48:00-log: preferences@1.0.0 enable
+2019-11-29 15:48:02-log: Parse [/Applications/CocosCreator3D-v1.0.1.app/Contents/Resources/resources/3d/engine/index.ts] : walk 481  files.
+2019-11-29 15:48:02-log: Parse [/Applications/CocosCreator3D-v1.0.1.app/Contents/Resources/resources/3d/engine/index.ts]: 1679.423ms
+2019-11-29 15:48:02-log: QuickCompiler compileFinished: 35.377ms
+2019-11-29 15:48:02-log: QuickCompiler rebuild finished: 1828.477ms
+2019-11-29 15:48:02-log: engine@1.0.0 enable
+2019-11-29 15:48:02-log: asset-db@1.0.0 enable
+2019-11-29 15:48:02-log: console@1.0.0 enable
+2019-11-29 15:48:02-log: scene@1.0.0 enable
+2019-11-29 15:48:02-log: ui-kit@1.0.0 enable
+2019-11-29 15:48:02-log: assets@1.0.0 enable
+2019-11-29 15:48:02-log: inspector@1.0.0 enable
+2019-11-29 15:48:02-log: hierarchy@1.0.0 enable
+2019-11-29 15:48:02-log: packager@1.0.0 enable
+2019-11-29 15:48:02-log: project-setting@1.0.0 enable
+2019-11-29 15:48:02-warn: Port 7456 is occupied
+2019-11-29 15:48:02-log: preview@1.0.0 enable
+2019-11-29 15:48:02-log: builder@1.0.0 enable
+2019-11-29 15:48:02-log: animator@1.0.0 enable
+2019-11-29 15:48:02-log: about@1.0.0 enable
+2019-11-29 15:48:02-log: tester@1.0.0 enable
+2019-11-29 15:48:02-log: ipc@1.0.0 enable
+2019-11-29 15:48:02-log: profile@1.0.0 enable
+2019-11-29 15:48:06-warn: [Scene] Can not instantiate CCClass 'SectionArea' with arguments.
+2019-11-29 15:48:06-warn: [Scene] No need to specify the "type" of "ChessAttack.direction" because cc.Vec3 is a child class of ValueType. Just set the default value to 'new cc.Vec3()' and it will be handled properly. ChessAttack direction cc.Vec3

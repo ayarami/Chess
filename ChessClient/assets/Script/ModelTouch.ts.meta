@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2d1ba708-8f8a-436f-8517-f5b5f1f8b69d",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/ModelTouch.ts",
+    "importAsPlugin": false
+  }
+}

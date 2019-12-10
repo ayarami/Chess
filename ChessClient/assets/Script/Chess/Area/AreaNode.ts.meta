@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c46ddc5a-8836-4734-8dfd-b4a3dffa22ea",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/Chess/Area/AreaNode.ts",
+    "importAsPlugin": false
+  }
+}

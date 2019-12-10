@@ -1,0 +1,225 @@
+{
+  "__type__": "cc.Mesh",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": ".bin",
+  "_struct": {
+    "primitives": [
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          0
+        ],
+        "geometricInfo": {
+          "view": {
+            "offset": 2496,
+            "length": 624,
+            "count": 156,
+            "stride": 4
+          }
+        },
+        "indexView": {
+          "offset": 3120,
+          "length": 204,
+          "count": 102,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          1
+        ],
+        "geometricInfo": {
+          "view": {
+            "offset": 10188,
+            "length": 1716,
+            "count": 429,
+            "stride": 4
+          }
+        },
+        "indexView": {
+          "offset": 11904,
+          "length": 576,
+          "count": 288,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          2
+        ],
+        "geometricInfo": {
+          "view": {
+            "offset": 19344,
+            "length": 1716,
+            "count": 429,
+            "stride": 4
+          }
+        },
+        "indexView": {
+          "offset": 21060,
+          "length": 576,
+          "count": 288,
+          "stride": 2
+        }
+      },
+      {
+        "primitiveMode": 7,
+        "vertexBundelIndices": [
+          3
+        ],
+        "geometricInfo": {
+          "view": {
+            "offset": 24132,
+            "length": 624,
+            "count": 156,
+            "stride": 4
+          }
+        },
+        "indexView": {
+          "offset": 24756,
+          "length": 264,
+          "count": 132,
+          "stride": 2
+        }
+      }
+    ],
+    "vertexBundles": [
+      {
+        "view": {
+          "offset": 0,
+          "length": 2496,
+          "count": 52,
+          "stride": 48
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 43,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 3324,
+          "length": 6864,
+          "count": 143,
+          "stride": 48
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 43,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 12480,
+          "length": 6864,
+          "count": 143,
+          "stride": 48
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 43,
+            "isNormalized": false
+          }
+        ]
+      },
+      {
+        "view": {
+          "offset": 21636,
+          "length": 2496,
+          "count": 52,
+          "stride": 48
+        },
+        "attributes": [
+          {
+            "name": "a_position",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_normal",
+            "format": 32,
+            "isNormalized": false
+          },
+          {
+            "name": "a_texCoord",
+            "format": 21,
+            "isNormalized": false
+          },
+          {
+            "name": "a_tangent",
+            "format": 43,
+            "isNormalized": false
+          }
+        ]
+      }
+    ],
+    "minPosition": {
+      "__type__": "cc.Vec3",
+      "x": -3.500000476837158,
+      "y": -3.500000476837158,
+      "z": -0.8979544639587402
+    },
+    "maxPosition": {
+      "__type__": "cc.Vec3",
+      "x": 3.500000476837158,
+      "y": 3.500000476837158,
+      "z": -0.3229537606239319
+    }
+  },
+  "_dataLength": 25020
+}

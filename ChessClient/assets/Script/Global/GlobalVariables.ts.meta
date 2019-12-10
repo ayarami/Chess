@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "c065ad65-3053-4df4-8d83-e14fde28b4e7",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/Global/GlobalVariables.ts",
+    "importAsPlugin": false
+  }
+}

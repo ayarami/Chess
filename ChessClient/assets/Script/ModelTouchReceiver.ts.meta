@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "d7757d54-b29d-420a-a1a0-d4fcff24285d",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/ModelTouchReceiver.ts",
+    "importAsPlugin": false
+  }
+}

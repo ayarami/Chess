@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2af73423-b5c3-41b3-a389-cac4c75c23b1",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/Global/Defines.ts",
+    "importAsPlugin": false
+  }
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "SelectedChessAnim",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 0.2,
+    "wrapMode": 1,
+    "events": [],
+    "_duration": 0.16666666666666666,
+    "_keys": [
+      [
+        0,
+        0.16666666666666666
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "position"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0.5,
+              "z": 0
+            }
+          ],
+          "easingMethods": [
+            [
+              0.43,
+              1.25,
+              0.62,
+              1.34
+            ],
+            null
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "RootNode"
+  }
+]

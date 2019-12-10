@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "3fe86a38-0f3a-4e40-9191-6b3573e1c34d",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/Chess/ChessMove.ts",
+    "importAsPlugin": false
+  }
+}

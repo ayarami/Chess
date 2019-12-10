@@ -1,0 +1,9 @@
+{
+  "3d": {
+    "javascript": {
+      "use_global": false,
+      "builtin": true,
+      "custom": "/Users/zhaozhengxiong/Documents/Engine/CocosCreator3D/v1.0.1"
+    }
+  }
+}

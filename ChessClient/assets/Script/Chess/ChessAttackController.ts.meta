@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "4f89ca62-1b79-4bd7-83d6-1bc529a74b93",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/Chess/ChessAttackController.ts",
+    "importAsPlugin": false
+  }
+}

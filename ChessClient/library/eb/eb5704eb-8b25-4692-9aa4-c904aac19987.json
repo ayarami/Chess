@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "d35125fc-0344-4dbc-b2dd-062728a7c417"
+  },
+  "_techIdx": 0,
+  "_defines": [
+    {
+      "USE_NORMAL_MAP": true,
+      "USE_ALBEDO_MAP": true,
+      "USE_PBR_MAP": true,
+      "USE_METALLIC_ROUGHNESS_MAP": true,
+      "USE_EMISSIVE_MAP": true
+    }
+  ],
+  "_states": [
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    }
+  ],
+  "_props": [
+    {
+      "albedo": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 179,
+        "b": 179,
+        "a": 255
+      },
+      "emissive": {
+        "__type__": "cc.Color",
+        "r": 100,
+        "g": 100,
+        "b": 100,
+        "a": 0
+      },
+      "albedoMap": {
+        "__uuid__": "2a24957c-a51f-417d-9510-495ad7bdc856@6c48a"
+      },
+      "normalMap": {
+        "__uuid__": "db3457f6-8f13-4c3b-84cb-a681ac67d347@6c48a"
+      },
+      "pbrMap": {
+        "__uuid__": "f7d24481-824f-4bb9-9eb1-73d86b17c5d0@6c48a"
+      },
+      "roughnessMap": {
+        "__uuid__": "32a42512-36f8-4b34-8eb0-c237d78fe1e4@6c48a"
+      },
+      "metallicRoughnessMap": {
+        "__uuid__": "90fa5841-358c-4aee-a39d-2025299b0f88@6c48a"
+      },
+      "occlusionMap": {
+        "__uuid__": "3c14deaf-3bb5-4fb9-a14c-58e51e76fdab@6c48a"
+      },
+      "emissiveMap": {
+        "__uuid__": "3c14deaf-3bb5-4fb9-a14c-58e51e76fdab@6c48a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "SwordAnim",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 1,
+    "events": [],
+    "_duration": 1.8666666666666667,
+    "_keys": [
+      [
+        0,
+        1,
+        1.4166666666666667,
+        1.8666666666666667
+      ],
+      [
+        0,
+        1,
+        1.4166666666666667,
+        1.8666666666666667
+      ],
+      [
+        0,
+        1.8666666666666667
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "eulerAngles"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 180,
+              "y": 0,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 180,
+              "y": 0,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 180,
+              "y": 90,
+              "z": -37.399
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 92.271,
+              "y": 205.764,
+              "z": 40.352
+            }
+          ],
+          "easingMethods": [
+            null,
+            "quadOut",
+            "quartIn",
+            null
+          ]
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 2
+          },
+          "position"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": -2.671,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": -0.005,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": -0.005,
+              "z": 0.095
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0.32,
+              "y": -0.99,
+              "z": 0.618
+            }
+          ],
+          "easingMethods": [
+            "quadOut",
+            "quadOut",
+            "quintIn",
+            null
+          ]
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 3
+          },
+          "active"
+        ],
+        "data": {
+          "keys": 2,
+          "values": [
+            false,
+            true
+          ],
+          "easingMethods": [
+            null,
+            null
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "RootNode"
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "RootNode"
+  },
+  {
+    "__type__": "cc.HierachyModifier",
+    "path": "RootNode/sword_OBJ:Mesh/NormalAttackEffect"
+  }
+]

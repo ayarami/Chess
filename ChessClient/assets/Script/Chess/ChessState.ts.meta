@@ -1,0 +1,14 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "6124cc71-1e7e-4fc1-aed5-45ee13688c55",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Script/Chess/ChessState.ts",
+    "importAsPlugin": false
+  }
+}

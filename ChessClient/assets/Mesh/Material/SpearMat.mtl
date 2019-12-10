@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.Material",
+  "_name": "",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "d35125fc-0344-4dbc-b2dd-062728a7c417"
+  },
+  "_techIdx": "0",
+  "_defines": [
+    {
+      "USE_NORMAL_MAP": true,
+      "USE_ALBEDO_MAP": true,
+      "USE_METALLIC_ROUGHNESS_MAP": true,
+      "METALLIC_CHANNEL": "r"
+    }
+  ],
+  "_states": [
+    {
+      "blendState": {
+        "targets": [
+          {}
+        ]
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
+    }
+  ],
+  "_props": [
+    {
+      "albedoMap": {
+        "__uuid__": "bf892f1a-c1d0-4f57-a87a-6a0a7071d412@6c48a"
+      },
+      "normalMap": {
+        "__uuid__": "e328a422-ea0a-4893-b366-9b47c98dbd00@6c48a"
+      },
+      "pbrMap": {
+        "__uuid__": "bf892f1a-c1d0-4f57-a87a-6a0a7071d412@6c48a"
+      },
+      "roughnessMap": {
+        "__uuid__": "4ec134c2-c95e-4c24-b6ca-c2c8fa6836e5@6c48a"
+      },
+      "metallicRoughnessMap": {
+        "__uuid__": "a245be83-6a8a-44a0-b4ac-1ffc36d0dab4@6c48a"
+      }
+    }
+  ]
+}
