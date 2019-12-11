@@ -1,5 +1,14 @@
+var https = require('https');
 var express = require('express');
-var app = express.createServer();
+
+var fs = require('fs');
+
+var options = {
+  key: fs.readFileSync('../shared/server.key'),
+  cert: fs.readFileSync('../shared/server.crt')
+};
+
+var app = express();
 
 app.configure(function(){
   app.use(express.methodOverride());
@@ -22,6 +31,8 @@ app.configure('production', function(){
   app.use(express.errorHandler());
 });
 
-console.log("Web server has started.\nPlease log on http://127.0.0.1:3001/index.html");
+console.log("Web server has started.\nPlease log on https://127.0.0.1:3001/index.html");
 
-app.listen(3001);
+var httpsServer = https.createServer(options, app);
+
+httpsServer.listen(3001);
